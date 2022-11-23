@@ -1,0 +1,20 @@
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\MainWindow.g.cs
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1_MarkupCompile.cache
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1_MarkupCompile.lref
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\bin\Debug\Computer Shop V.0.1.exe.config
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\bin\Debug\Computer Shop V.0.1.exe
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\bin\Debug\Computer Shop V.0.1.pdb
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\MainWindow.baml
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.g.resources
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer_Shop_V._0._1.Properties.Resources.resources
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.exe
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Computer Shop V.0.1.pdb
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Page1.g.cs
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Page1.baml
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Page2.g.cs
+C:\Users\ПК\Desktop\Computer Shop V.0.1\Computer Shop V.0.1\obj\Debug\Page2.baml
